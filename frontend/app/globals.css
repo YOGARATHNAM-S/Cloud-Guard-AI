@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+body { background: #07111f; color: #e5eef8; }
+* { box-sizing: border-box; }
+.glass { background: rgba(15, 31, 53, .78); border: 1px solid rgba(125, 211, 252, .12); }
+
